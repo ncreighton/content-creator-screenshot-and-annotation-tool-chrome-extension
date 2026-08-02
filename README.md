@@ -28,8 +28,6 @@ Under 1MB. Zero performance impact on browser speed. Privacy-first: all processi
 
 Upgrade to the Pro version for **$24.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/ksysgj)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/28E3cv7r1gaUf44eM4cZZ2Y)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$24.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/ksysgj)
 
 ## License
 
